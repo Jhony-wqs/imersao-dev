@@ -1,2 +1,2 @@
 # imersao-dev
- projeto criado durante a imersão dev da alura
+ Projeto criado durante a imersão dev da alura.
